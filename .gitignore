@@ -1,0 +1,5 @@
+# temporary files
+/temp
+
+# utils junk
+__pycache__
